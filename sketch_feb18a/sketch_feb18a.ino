@@ -28,7 +28,7 @@ void loop() {
           sdInitSuccess = false; //failure
           
         }
-        myFile = SD.open("TEST.txt", FILE_WRITE);
+        myFile = SD.open("GASGASGAS(Giannis Atulit Sydney).txt", FILE_WRITE);
         if (myFile) {
 
 //outputValue = map(sensorValue, 0, 1023, 0, 255);
